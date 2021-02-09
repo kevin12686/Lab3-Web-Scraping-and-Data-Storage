@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Pacific Union College",
+        "url": "https://www.payscale.com/research/US/School=Pacific_Union_College_(PUC)/Salary",
+        "sector": "Private not-for-profit",
+        "starting_salary": 64500,
+        "mid_career_salary": 88300,
+        "STEM_degrees": 9
+    },
+    {
+        "name": "Loma Linda University",
+        "url": "https://www.payscale.com/research/US/School=Loma_Linda_University/Salary",
+        "sector": "Private not-for-profit",
+        "starting_salary": 59800,
+        "mid_career_salary": 81500,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "Mount Saint Mary's University",
+        "url": "https://www.payscale.com/research/US/School=Mount_Saint_Mary%27s_University_-_Los_Angeles%2C_CA/Salary",
+        "sector": "Private not-for-profit",
+        "starting_salary": 57700,
+        "mid_career_salary": 77100,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Evergreen Valley College",
+        "url": "https://www.payscale.com/research/US/School=Evergreen_Valley_College/Salary",
+        "sector": "Public",
+        "starting_salary": 49600,
+        "mid_career_salary": 76600,
+        "STEM_degrees": 8
+    },
+    {
+        "name": "De Anza College",
+        "url": "https://www.payscale.com/research/US/School=De_Anza_College/Salary",
+        "sector": "Public",
+        "starting_salary": 52800,
+        "mid_career_salary": 76300,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Saddleback College",
+        "url": "https://www.payscale.com/research/US/School=Saddleback_Community_College/Salary",
+        "sector": "Public",
+        "starting_salary": 45500,
+        "mid_career_salary": 75600,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Cabrillo College",
+        "url": "https://www.payscale.com/research/US/School=Cabrillo_College/Salary",
+        "sector": "Public",
+        "starting_salary": 49300,
+        "mid_career_salary": 75200,
+        "STEM_degrees": 9
+    },
+    {
+        "name": "Diablo Valley College",
+        "url": "https://www.payscale.com/research/US/School=Diablo_Valley_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47000,
+        "mid_career_salary": 74900,
+        "STEM_degrees": 13
+    },
+    {
+        "name": "College of San Mateo",
+        "url": "https://www.payscale.com/research/US/School=College_of_San_Mateo/Salary",
+        "sector": "Public",
+        "starting_salary": 52200,
+        "mid_career_salary": 74800,
+        "STEM_degrees": 11
+    },
+    {
+        "name": "West Valley College",
+        "url": "https://www.payscale.com/research/US/School=West_Valley_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47700,
+        "mid_career_salary": 74100,
+        "STEM_degrees": 5
+    },
+    {
+        "name": "Orange Coast College",
+        "url": "https://www.payscale.com/research/US/School=Orange_Coast_College_-_Costa_Mesa%2C_CA/Salary",
+        "sector": "Public",
+        "starting_salary": 45500,
+        "mid_career_salary": 73900,
+        "STEM_degrees": 9
+    },
+    {
+        "name": "City College of San Francisco",
+        "url": "https://www.payscale.com/research/US/School=City_College_of_San_Francisco/Salary",
+        "sector": "Public",
+        "starting_salary": 50700,
+        "mid_career_salary": 73800,
+        "STEM_degrees": 10
+    },
+    {
+        "name": "Foothill College",
+        "url": "https://www.payscale.com/research/US/School=Foothill_College/Salary",
+        "sector": "Public",
+        "starting_salary": 51200,
+        "mid_career_salary": 72700,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Moorpark College",
+        "url": "https://www.payscale.com/research/US/School=Moorpark_College/Salary",
+        "sector": "Public",
+        "starting_salary": 45500,
+        "mid_career_salary": 72200,
+        "STEM_degrees": 6
+    },
+    {
+        "name": "Bakersfield College",
+        "url": "https://www.payscale.com/research/US/School=Bakersfield_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47300,
+        "mid_career_salary": 72000,
+        "STEM_degrees": 6
+    },
+    {
+        "name": "Ohlone College",
+        "url": null,
+        "sector": "Public",
+        "starting_salary": 48400,
+        "mid_career_salary": 71800,
+        "STEM_degrees": 27
+    },
+    {
+        "name": "Chabot College",
+        "url": "https://www.payscale.com/research/US/School=Chabot_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47100,
+        "mid_career_salary": 71700,
+        "STEM_degrees": 7
+    },
+    {
+        "name": "Marymount California University",
+        "url": "https://www.payscale.com/research/US/School=Marymount_College_-_Rancho_Palos_Verdes%2C_CA/Salary",
+        "sector": "Private not-for-profit",
+        "starting_salary": 50100,
+        "mid_career_salary": 71500,
+        "STEM_degrees": 0
+    },
+    {
+        "name": "Sacramento City College",
+        "url": "https://www.payscale.com/research/US/School=Sacramento_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47100,
+        "mid_career_salary": 71300,
+        "STEM_degrees": 10
+    },
+    {
+        "name": "Skyline College",
+        "url": "https://www.payscale.com/research/US/School=Skyline_College_-_San_Bruno%2C_CA/Salary",
+        "sector": "Public",
+        "starting_salary": 47500,
+        "mid_career_salary": 71100,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Canada College",
+        "url": "https://www.payscale.com/research/US/School=Canada_College_-_Ottawa/Salary",
+        "sector": "Public",
+        "starting_salary": 49200,
+        "mid_career_salary": 71000,
+        "STEM_degrees": 7
+    },
+    {
+        "name": "Grossmont College",
+        "url": "https://www.payscale.com/research/US/School=Grossmont_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46500,
+        "mid_career_salary": 71000,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "Taft College",
+        "url": null,
+        "sector": "Public",
+        "starting_salary": 46800,
+        "mid_career_salary": 70100,
+        "STEM_degrees": 14
+    },
+    {
+        "name": "Mission College",
+        "url": "https://www.payscale.com/research/US/School=Mission_College/Salary",
+        "sector": "Public",
+        "starting_salary": 50000,
+        "mid_career_salary": 70100,
+        "STEM_degrees": 21
+    },
+    {
+        "name": "Las Positas College",
+        "url": "https://www.payscale.com/research/US/School=Las_Positas_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46100,
+        "mid_career_salary": 70000,
+        "STEM_degrees": 8
+    },
+    {
+        "name": "Cypress College",
+        "url": "https://www.payscale.com/research/US/School=Cypress_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44000,
+        "mid_career_salary": 69900,
+        "STEM_degrees": 6
+    },
+    {
+        "name": "Napa Valley College",
+        "url": "https://www.payscale.com/research/US/School=Napa_Valley_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46200,
+        "mid_career_salary": 69800,
+        "STEM_degrees": 2
+    },
+    {
+        "name": "Compton College",
+        "url": "https://www.payscale.com/research/US/School=El_Camino_College/Salary",
+        "sector": "Public",
+        "starting_salary": 43100,
+        "mid_career_salary": 69300,
+        "STEM_degrees": 1
+    },
+    {
+        "name": "Coastline Community College",
+        "url": "https://www.payscale.com/research/US/School=Coastline_Community_College/Salary",
+        "sector": "Public",
+        "starting_salary": 47100,
+        "mid_career_salary": 69100,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "San Jose City College",
+        "url": "https://www.payscale.com/research/US/School=San_Jose_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 43800,
+        "mid_career_salary": 68900,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Los Medanos College",
+        "url": "https://www.payscale.com/research/US/School=Los_Medanos_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46100,
+        "mid_career_salary": 68800,
+        "STEM_degrees": 5
+    },
+    {
+        "name": "College of Marin",
+        "url": "https://www.payscale.com/research/US/School=College_of_Marin/Salary",
+        "sector": "Public",
+        "starting_salary": 46400,
+        "mid_career_salary": 68600,
+        "STEM_degrees": 1
+    },
+    {
+        "name": "Victor Valley College",
+        "url": "https://www.payscale.com/research/US/School=Victor_Valley_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44900,
+        "mid_career_salary": 68300,
+        "STEM_degrees": 2
+    },
+    {
+        "name": "Santa Monica College",
+        "url": "https://www.payscale.com/research/US/School=Santa_Monica_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46100,
+        "mid_career_salary": 68300,
+        "STEM_degrees": 2
+    },
+    {
+        "name": "Antelope Valley College",
+        "url": null,
+        "sector": "Public",
+        "starting_salary": 43900,
+        "mid_career_salary": 68200,
+        "STEM_degrees": 9
+    },
+    {
+        "name": "College of the Desert",
+        "url": "https://www.payscale.com/research/US/School=College_of_the_Desert/Salary",
+        "sector": "Public",
+        "starting_salary": 44800,
+        "mid_career_salary": 68000,
+        "STEM_degrees": 5
+    },
+    {
+        "name": "Los Angeles Harbor College",
+        "url": "https://www.payscale.com/research/US/School=Los_Angeles_Harbor_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44200,
+        "mid_career_salary": 67900,
+        "STEM_degrees": 1
+    },
+    {
+        "name": "American River College",
+        "url": "https://www.payscale.com/research/US/School=American_River_College/Salary",
+        "sector": "Public",
+        "starting_salary": 42700,
+        "mid_career_salary": 67700,
+        "STEM_degrees": 6
+    },
+    {
+        "name": "Santa Rosa Junior College",
+        "url": "https://www.payscale.com/research/US/School=Santa_Rosa_Junior_College/Salary",
+        "sector": "Public",
+        "starting_salary": 45400,
+        "mid_career_salary": 67700,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "Long Beach City College",
+        "url": "https://www.payscale.com/research/US/School=Long_Beach_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 43900,
+        "mid_career_salary": 67600,
+        "STEM_degrees": 10
+    },
+    {
+        "name": "Cerritos College",
+        "url": "https://www.payscale.com/research/US/School=Cerritos_College/Salary",
+        "sector": "Public",
+        "starting_salary": 43000,
+        "mid_career_salary": 67500,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "Laney College",
+        "url": "https://www.payscale.com/research/US/School=Laney_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44100,
+        "mid_career_salary": 67300,
+        "STEM_degrees": 4
+    },
+    {
+        "name": "Ventura College",
+        "url": "https://www.payscale.com/research/US/School=Ventura_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44200,
+        "mid_career_salary": 67200,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "College of the Canyons",
+        "url": "https://www.payscale.com/research/US/School=College_of_the_Canyons/Salary",
+        "sector": "Public",
+        "starting_salary": 44100,
+        "mid_career_salary": 67200,
+        "STEM_degrees": 6
+    },
+    {
+        "name": "San Diego Miramar College",
+        "url": null,
+        "sector": "Public",
+        "starting_salary": 45400,
+        "mid_career_salary": 66900,
+        "STEM_degrees": 17
+    },
+    {
+        "name": "El Camino Community College District",
+        "url": "https://www.payscale.com/research/US/School=El_Camino_Community_College_District/Salary",
+        "sector": "Public",
+        "starting_salary": 45200,
+        "mid_career_salary": 66700,
+        "STEM_degrees": 8
+    },
+    {
+        "name": "Los Angeles Pierce College",
+        "url": null,
+        "sector": "Public",
+        "starting_salary": 43100,
+        "mid_career_salary": 66700,
+        "STEM_degrees": 3
+    },
+    {
+        "name": "Pasadena City College",
+        "url": "https://www.payscale.com/research/US/School=Pasadena_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 44500,
+        "mid_career_salary": 66600,
+        "STEM_degrees": 2
+    },
+    {
+        "name": "San Diego City College",
+        "url": "https://www.payscale.com/research/US/School=San_Diego_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46400,
+        "mid_career_salary": 66600,
+        "STEM_degrees": 10
+    },
+    {
+        "name": "Santa Barbara City College",
+        "url": "https://www.payscale.com/research/US/School=Santa_Barbara_City_College/Salary",
+        "sector": "Public",
+        "starting_salary": 46100,
+        "mid_career_salary": 66500,
+        "STEM_degrees": 6
+    }
+]
